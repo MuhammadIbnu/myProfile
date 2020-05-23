@@ -1,1 +1,1 @@
- build\\web\\index.html:  D:\\learning\\flutter\\webprofile\\myprofile\\web\\index.html
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  D:\\learning\\flutter\\webprofile\\myprofile\\web\\favicon.png D:\\learning\\flutter\\webprofile\\myprofile\\web\\icons\\Icon-192.png D:\\learning\\flutter\\webprofile\\myprofile\\web\\icons\\Icon-512.png D:\\learning\\flutter\\webprofile\\myprofile\\web\\index.html D:\\learning\\flutter\\webprofile\\myprofile\\web\\manifest.json

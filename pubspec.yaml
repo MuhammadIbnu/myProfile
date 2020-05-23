@@ -42,8 +42,9 @@ flutter:
   assets:
   - assets/
   - assets/works/
+  - assets/skill/
   fonts:
-  - family: GoogleSansRegular
+  - family: GoogleSansRegularr
     fonts:
       - asset: assets/GoogleSansRegular.ttf
 

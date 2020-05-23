@@ -11,7 +11,7 @@ class Assets{
   static const katalogue = 'assets/works/katalogue.jpg';
   static const persija = 'assets/works/persija.jpg';
   static const redesign = 'assets/works/redesign.jpg';
-  static const mobile = 'assets/skill/mobile.jpg';
-  static const web = 'assets/skill/web.jpg';
-  static const ux = 'assets/skill/ux.jpg';
+  static const mobile = 'assets/mobile.jpg';
+  static const web = 'assets/web.jpg';
+  static const ux = 'assets/ux.png';
 }
